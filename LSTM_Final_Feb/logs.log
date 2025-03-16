@@ -1,2 +1,12 @@
 2025-03-11 14:34:57,331:WARNING:
 'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-17 02:13:43,015:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-17 02:31:24,981:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-17 02:31:28,088:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-17 02:51:09,884:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-03-17 02:51:49,429:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
