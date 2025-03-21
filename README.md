@@ -1,7 +1,9 @@
 # bachelor economics thesis
 
 Analysis of Models for Crypto Price Forecasting.
+
 Preliminary scope of work:
+
 Research question and motivation
 In the dynamic realm of virtual currencies, accurately forecasting price has become increasingly crucial. The unprecedented growth and volatility of crypto assets necessitate the evolution and evaluation of robust forecasting models (Chu et al.  2019). While existing literature has extensively explored various forecasting techniques, a clear understanding of the most effective approach remains elusive. This research seeks to address this gap by focusing on the comparison of two prominent models – Recurrent Neural Network (RNN) Long Short-Term Memory (LSTM) and Exponential Smoothing Model with Artificial Neural Networks (ETS-ANN) hybrid (Nasirtafreshi 2022 & Seabe, Lloyd, Moutsinga, and Pindza 2023; Panigrahi, Behera 2017 & Ampountolas, Apostolos 2023). By analyzing the performance of these models against historical cryptocurrency price data, this study aims to provide a nuanced perspective on the accuracy and reliability of deep learning and hybrid method, thereby contributing to the advancement of cryptocurrency forecasting methodologies.
 
@@ -26,6 +28,8 @@ Outline
 6.	Conclusion 
 7.	Reference
 Appendix
+
+
 List of academic literature:
 Bibliography
 1.	Nasirtafreshi, Forecasting cryptocurrency prices using Recurrent Neural Network and Long Short-term Memory, Data & Knowledge Engineering, Volume 139, 2022, 102009, ISSN 0169-023X, https://doi.org/10.1016/j.datak.2022.102009. (https://www.sciencedirect.com/science/article/pii/S0169023X22000234) 
